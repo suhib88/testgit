@@ -1,0 +1,460 @@
+
+
+<!DOCTYPE html>
+<html lang="nb-NO">
+  <head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="https://lier-asvo.no/wp-content/themes/asvo/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://lier-asvo.no/wp-content/themes/asvo/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>
+      Kortermet topp stripet | Lier ASVO      Lier ASVO    </title>
+
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lier-asvo.no\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://lier-asvo.no/wp-includes/css/dist/block-library/style.min.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://lier-asvo.no/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://lier-asvo.no/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.7.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.7.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='owl-css'  href='https://lier-asvo.no/wp-content/themes/asvo/css/owl.carousel.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://lier-asvo.no/wp-content/themes/asvo/css/font-awesome.min.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap_css-css'  href='https://lier-asvo.no/wp-content/themes/asvo/css/bootstrap.min.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='main_css-css'  href='https://lier-asvo.no/wp-content/themes/asvo/style.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='custom_css-css'  href='https://lier-asvo.no/wp-content/themes/asvo/custom.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='print_css-css'  href='https://lier-asvo.no/wp-content/themes/asvo/print.css?ver=5.8.7' type='text/css' media='print' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://lier-asvo.no/wp-content/plugins/cookie-notice/includes/../css/front.min.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='vipps-gw-css'  href='https://lier-asvo.no/wp-content/plugins/woo-vipps/css/vipps.css?ver=1639994567' type='text/css' media='all' />
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/lier-asvo.no\/wp-admin\/admin-ajax.php","nonce":"c9f28895b7","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"lier-asvo.no","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script async type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.2.1' id='cookie-notice-front-js'></script>
+<link rel="https://api.w.org/" href="https://lier-asvo.no/wp-json/" /><link rel="alternate" type="application/json" href="https://lier-asvo.no/wp-json/wp/v2/product/4015" /><link rel="alternate" type="application/json+oembed" href="https://lier-asvo.no/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flier-asvo.no%2Fprodukt%2Fkortermet-topp-stripet%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lier-asvo.no/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flier-asvo.no%2Fprodukt%2Fkortermet-topp-stripet%2F&#038;format=xml" />
+<!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
+<meta name="description" content="Topp strikket i tynn alpakka. Kommer i størrelse S - XL med forskjellige fargekombinasjoner. Denne er strikket etter eget design." />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Organization","@id":"https:\/\/lier-asvo.no\/#schema-publishing-organization","url":"https:\/\/lier-asvo.no","name":"Lier ASVO"},{"@type":"WebSite","@id":"https:\/\/lier-asvo.no\/#schema-website","url":"https:\/\/lier-asvo.no","name":"Alfashop","encoding":"UTF-8","potentialAction":{"@type":"SearchAction","target":"https:\/\/lier-asvo.no\/search\/{search_term_string}\/","query-input":"required name=search_term_string"}}]}</script>
+<!-- /SEO -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
+    <!-- Facebook Pixel Code -->
+
+    <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"04ef218cc94532c220512aeca","lid":"a5c7f9dd2e","uniqueMethods":true}) })</script>
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '159034654679585');
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1"
+
+src="https://www.facebook.com/tr?id=159034654679585&ev=PageView
+
+&noscript=1"/>
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+  </head>
+
+  <body class="product-template-default single single-product postid-4015 theme-asvo woocommerce woocommerce-page woocommerce-no-js cookies-not-set">
+
+  <div class="hide_menu"></div>
+
+  <div class="offscreen_wrap">
+
+    <div class="offscreen_inner">
+
+    <a href="https://lier-asvo.no/butikken/" class="shop_bar">Se tilbud i vår nettbutikk her!</a>
+    <style>
+      .shop_bar{
+        background: #ee1c2c;
+        color: #fff;
+        text-decoration: none;
+        display: block;
+        padding: 10px 10px;
+        text-align: center;
+      }
+      .shop_bar:hover{
+        text-decoration: underline;
+        color: #fff;
+      }
+      .header{
+        position: relative;
+      }
+      body.woocommerce .shop_bar,
+      body.woocommerce-page .shop_bar{
+        display: none;
+      }
+    </style>
+
+    <header class="header clearfix" role="navigation">
+        <a class="logo" href="https://lier-asvo.no">
+          <img src="https://lier-asvo.no/wp-content/themes/asvo/images/logo.png" alt="Lier ASVO" />
+        </a>
+
+        <div class="nav">
+        	<span class="menu_toggle"><span class=""></span><em class="">MENY</em></span>
+
+	        <div class="form_wrap hidden-xs">
+		        <form role="search" method="get" class="search-form" action="https://lier-asvo.no/">
+		            <input type="search" class="search-field" placeholder="Skriv søkeord her"  name="s" />
+		            <button type="submit"><i class="fa fa-search"></i></button>
+		        </form>
+	        </div>
+
+        </div>
+
+        <div class="basket">
+        	<strong><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#107;&#114;</span>&nbsp;0,00</bdi></span></strong>
+          <span class="hidden-sm hidden-xs">0 produkter i handlevognen <a href="https://lier-asvo.no/handlevogn/"></span>
+          <i class="fa fa-shopping-cart"></i></a>
+
+
+
+        </div>
+
+
+    </header>
+    <section class="menu_wrap">
+      <div class="hidden_menu">
+        <div class="container">
+          <div class="menu_close"></div>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">
+              <div id="nav_menu-2" class="widget widget_nav_menu"><h3>FOR PRIVATE</h3><div class="menu-privat-container"><ul id="menu-privat" class="menu"><li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="https://lier-asvo.no/ved/">Kjøp ved her</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://lier-asvo.no/kafe/">Kafé</a></li>
+<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://lier-asvo.no/catering/">Catering</a></li>
+<li id="menu-item-5162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5162"><a href="https://lier-asvo.no/strikkeprodukter/">Se strikkeprodukter</a></li>
+</ul></div></div>            </div>
+            <div class="col-sm-4 col-xs-12">
+              <div id="nav_menu-3" class="widget widget_nav_menu"><h3>FOR BEDRIFTER</h3><div class="menu-bedrift-container"><ul id="menu-bedrift" class="menu"><li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://lier-asvo.no/produktpakking-og-montasje/">Montering og produktpakking</a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://lier-asvo.no/grontarbeid/">Service-/grøntarbeid</a></li>
+<li id="menu-item-186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://lier-asvo.no/praksisplass/">Praksisplass i din bedrift</a></li>
+<li id="menu-item-7567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7567"><a href="https://lier-asvo.no/insekts-bie-hotell/">Info: Insekts-/biehotell</a></li>
+</ul></div></div>            </div>
+            <div class="col-sm-4 col-xs-12">
+              <div id="nav_menu-4" class="widget widget_nav_menu"><h3>TILRETTELAGT ARBEID</h3><div class="menu-nav-container"><ul id="menu-nav" class="menu"><li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://lier-asvo.no/karrieresenter/">Karrieresenter</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="https://lier-asvo.no/arbeidssoker/">Arbeidssøker</a></li>
+<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://lier-asvo.no/arbeidsgiver/">Arbeidsgiver</a></li>
+<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="https://lier-asvo.no/aktivitetssenter-arbeidsrelatert-aktivitet/">Aktivitetssenter</a></li>
+<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://lier-asvo.no/om-oss/">Om Lier ASVO</a></li>
+<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="https://lier-asvo.no/ansatte/">Ansatte</a></li>
+</ul></div></div>            </div>
+          </div>
+
+          <div class="form_wrap visible-xs visible-sm">
+            <form role="search" method="get" class="search-form" action="https://lier-asvo.no/">
+                <input type="search" class="search-field" placeholder="Skriv søkeord her"  name="s" />
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    
+<div class="woo_wrap single_product main_content_wrap single_wrap">
+
+	<div class="woo_cats">
+		<div class="container">
+
+			<nav class="woocommerce-breadcrumb"><a href="https://lier-asvo.no">Hjem</a>&nbsp;&#47;&nbsp;<a href="https://lier-asvo.no/produktkategori/strikkeprodukter/">Strikkeprodukter</a>&nbsp;&#47;&nbsp;<a href="https://lier-asvo.no/produktkategori/strikkeprodukter/salg/">SALG!</a>&nbsp;&#47;&nbsp;Kortermet topp stripet</nav>
+		</div>
+	</div>
+
+	<div class="container woo_cat_wrap">
+
+
+		<div id="primary" class="content-area"><main id="main" class="site-main" role="main">
+			
+				
+
+<div class="woocommerce-notices-wrapper"></div>
+<div itemscope itemtype="http://schema.org/Product" id="product-4015" class="post-4015 product type-product status-publish has-post-thumbnail product_cat-salg product_cat-strikkeprodukter first instock sale shipping-taxable purchasable product-type-variable">
+
+
+  <div class="col-sm-6 col-xs-12">
+  
+	<span class="onsale">Tilbud!</span>
+	<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o-100x100.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o.jpg"><img width="600" height="450" src="https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o-600x450.jpg" class="wp-post-image" alt="" loading="lazy" title="117768878_3174610692604882_1630623436214367833_o" data-caption="" data-src="https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o.jpg" data-large_image="https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o.jpg" data-large_image_width="2016" data-large_image_height="1512" srcset="https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o-600x450.jpg 600w, https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o-300x225.jpg 300w, https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o-1024x768.jpg 1024w, https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o-768x576.jpg 768w, https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o-1536x1152.jpg 1536w, https://lier-asvo.no/wp-content/uploads/sites/8/2021/06/117768878_3174610692604882_1630623436214367833_o.jpg 2016w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>	</figure>
+</div>
+  </div>
+
+
+
+	<div class="col-sm-6 col-xs-12">
+		  <h1 class="product_title entry-title">Kortermet topp stripet</h1>
+      <div class="desc">
+                <p>Topp strikket i tynn alpakka.</p>
+<p>Kommer i størrelse S &#8211; XL med forskjellige fargekombinasjoner.</p>
+<p>Denne er strikket etter eget design.</p>
+      </div>
+
+      <div class="attr">
+
+      </div>
+
+      <div class="asvo_buy">
+        
+<form class="variations_form cart" action="https://lier-asvo.no/produkt/kortermet-topp-stripet/" method="post" enctype='multipart/form-data' data-product_id="4015" data-product_variations="[{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Brun\/ lilla\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;S&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117939576_3174610622604889_3852518122860112043_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4036,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4016,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Brun\/ lilla\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;M&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117939576_3174610622604889_3852518122860112043_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4036,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4017,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Brun\/ lilla\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;L&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117939576_3174610622604889_3852518122860112043_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4036,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4018,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Brun\/ lilla\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;XL&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;1 p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117939576_3174610622604889_3852518122860112043_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117939576_3174610622604889_3852518122860112043_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4036,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:1,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4019,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Hvit\/ lys bl\u00e5\/ m\u00f8rk bl\u00e5&quot;,&quot;attribute_storrelse&quot;:&quot;S&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117753071_3174610852604866_296185937830703485_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4033,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4020,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Hvit\/ lys bl\u00e5\/ m\u00f8rk bl\u00e5&quot;,&quot;attribute_storrelse&quot;:&quot;M&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117753071_3174610852604866_296185937830703485_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4033,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4021,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Hvit\/ lys bl\u00e5\/ m\u00f8rk bl\u00e5&quot;,&quot;attribute_storrelse&quot;:&quot;L&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;1 p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117753071_3174610852604866_296185937830703485_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4033,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:1,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4022,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Hvit\/ lys bl\u00e5\/ m\u00f8rk bl\u00e5&quot;,&quot;attribute_storrelse&quot;:&quot;XL&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117753071_3174610852604866_296185937830703485_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117753071_3174610852604866_296185937830703485_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4033,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4023,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Beige\/ petrol\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;S&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117811865_3174610619271556_3008942675780174857_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4035,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4024,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Beige\/ petrol\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;M&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;1 p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117811865_3174610619271556_3008942675780174857_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4035,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:1,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4025,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Beige\/ petrol\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;L&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;3 p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117811865_3174610619271556_3008942675780174857_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4035,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:3,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4026,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Beige\/ petrol\/ hvit&quot;,&quot;attribute_storrelse&quot;:&quot;XL&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117811865_3174610619271556_3008942675780174857_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-600x800.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-225x300.jpg 225w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-768x1024.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-1152x1536.jpg 1152w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg 1512w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o.jpg&quot;,&quot;full_src_w&quot;:1512,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117811865_3174610619271556_3008942675780174857_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:800},&quot;image_id&quot;:4035,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4027,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Orange\/ brun\/ gr\u00f8nn&quot;,&quot;attribute_storrelse&quot;:&quot;S&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117649981_3174610769271541_5224817323778340164_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4032,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4028,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Orange\/ brun\/ gr\u00f8nn&quot;,&quot;attribute_storrelse&quot;:&quot;M&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117649981_3174610769271541_5224817323778340164_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4032,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4029,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Orange\/ brun\/ gr\u00f8nn&quot;,&quot;attribute_storrelse&quot;:&quot;L&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117649981_3174610769271541_5224817323778340164_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4032,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4030,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;},{&quot;attributes&quot;:{&quot;attribute_farge&quot;:&quot;Orange\/ brun\/ gr\u00f8nn&quot;,&quot;attribute_storrelse&quot;:&quot;XL&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock out-of-stock\&quot;&gt;Tomt p\u00e5 lager&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;I\/A&quot;,&quot;display_price&quot;:175,&quot;display_regular_price&quot;:349,&quot;image&quot;:{&quot;title&quot;:&quot;117649981_3174610769271541_5224817323778340164_o&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-600x804.jpg 600w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-224x300.jpg 224w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-764x1024.jpg 764w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-768x1029.jpg 768w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-1146x1536.jpg 1146w, https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg 1504w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o.jpg&quot;,&quot;full_src_w&quot;:1504,&quot;full_src_h&quot;:2016,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/lier-asvo.no\/wp-content\/uploads\/sites\/8\/2021\/06\/117649981_3174610769271541_5224817323778340164_o-540x370.jpg&quot;,&quot;thumb_src_w&quot;:540,&quot;thumb_src_h&quot;:370,&quot;src_w&quot;:600,&quot;src_h&quot;:804},&quot;image_id&quot;:4032,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:false,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&quot;,&quot;sku&quot;:&quot;p-kortermet topp stripet&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:4031,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;1&quot;,&quot;weight_html&quot;:&quot;1 kg&quot;}]">
+	
+			<table class="variations" cellspacing="0">
+			<tbody>
+									<tr>
+						<td class="label"><label for="farge">Farge</label></td>
+						<td class="value">
+							<select id="farge" class="" name="attribute_farge" data-attribute_name="attribute_farge" data-show_option_none="yes"><option value="">Velg et alternativ</option><option value="Brun/ lilla/ hvit" >Brun/ lilla/ hvit</option><option value="Hvit/ lys blå/ mørk blå" >Hvit/ lys blå/ mørk blå</option><option value="Beige/ petrol/ hvit" >Beige/ petrol/ hvit</option><option value="Orange/ brun/ grønn" >Orange/ brun/ grønn</option></select>						</td>
+					</tr>
+									<tr>
+						<td class="label"><label for="storrelse">Størrelse</label></td>
+						<td class="value">
+							<select id="storrelse" class="" name="attribute_storrelse" data-attribute_name="attribute_storrelse" data-show_option_none="yes"><option value="">Velg et alternativ</option><option value="S" >S</option><option value="M" >M</option><option value="L" >L</option><option value="XL" >XL</option></select><a class="reset_variations" href="#">Nullstill</a>						</td>
+					</tr>
+							</tbody>
+		</table>
+
+		<div class="single_variation_wrap">
+			<div class="woocommerce-variation single_variation"></div><div class="woocommerce-variation-add-to-cart variations_button">
+	
+		<div class="quantity">
+				<label class="screen-reader-text" for="quantity_6470ec4f81ecb">Kortermet topp stripet antall</label>
+		<input
+			type="number"
+			id="quantity_6470ec4f81ecb"
+			class="input-text qty text"
+			step="1"
+			min="1"
+			max=""
+			name="quantity"
+			value="1"
+			title="Antall"
+			size="4"
+			placeholder=""
+			inputmode="numeric" />
+			</div>
+	
+	<button type="submit" class="single_add_to_cart_button button alt">Kjøp</button>
+
+	
+	<input type="hidden" name="add-to-cart" value="4015" />
+	<input type="hidden" name="product_id" value="4015" />
+	<input type="hidden" name="variation_id" class="variation_id" value="0" />
+</div>
+		</div>
+	
+	</form>
+
+        <p class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#107;&#114;</span>&nbsp;349,00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#107;&#114;</span>&nbsp;175,00</bdi></span></ins></p>
+      </div>
+
+
+
+
+
+	
+	</div><!-- .summary -->
+
+
+	<meta itemprop="url" content="https://lier-asvo.no/produkt/kortermet-topp-stripet/" />
+
+</div><!-- #product-4015 -->
+
+
+			
+		</main></div>
+	</div>
+</div>
+<section class="footer_menu">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-3 col-xs-12">
+				<div id="nav_menu-2" class="widget widget_nav_menu"><h3>FOR PRIVATE</h3><div class="menu-privat-container"><ul id="menu-privat-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="https://lier-asvo.no/ved/">Kjøp ved her</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://lier-asvo.no/kafe/">Kafé</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="https://lier-asvo.no/catering/">Catering</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5162"><a href="https://lier-asvo.no/strikkeprodukter/">Se strikkeprodukter</a></li>
+</ul></div></div>			</div>
+			<div class="col-sm-3 col-xs-12">
+				<div id="nav_menu-3" class="widget widget_nav_menu"><h3>FOR BEDRIFTER</h3><div class="menu-bedrift-container"><ul id="menu-bedrift-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://lier-asvo.no/produktpakking-og-montasje/">Montering og produktpakking</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://lier-asvo.no/grontarbeid/">Service-/grøntarbeid</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://lier-asvo.no/praksisplass/">Praksisplass i din bedrift</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7567"><a href="https://lier-asvo.no/insekts-bie-hotell/">Info: Insekts-/biehotell</a></li>
+</ul></div></div>			</div>
+			<div class="col-sm-3 col-xs-12">
+				<div id="nav_menu-4" class="widget widget_nav_menu"><h3>TILRETTELAGT ARBEID</h3><div class="menu-nav-container"><ul id="menu-nav-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://lier-asvo.no/karrieresenter/">Karrieresenter</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="https://lier-asvo.no/arbeidssoker/">Arbeidssøker</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://lier-asvo.no/arbeidsgiver/">Arbeidsgiver</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="https://lier-asvo.no/aktivitetssenter-arbeidsrelatert-aktivitet/">Aktivitetssenter</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="https://lier-asvo.no/om-oss/">Om Lier ASVO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="https://lier-asvo.no/ansatte/">Ansatte</a></li>
+</ul></div></div>			</div>
+			<div class="col-sm-3 col-xs-12">
+				<div id="nav_menu-5" class="widget widget_nav_menu"><h3>INFORMASJON</h3><div class="menu-informasjon-container"><ul id="menu-informasjon" class="menu"><li id="menu-item-1798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1798"><a href="https://lier-asvo.no/kjopsvilkar/">Kjøpsvilkår</a></li>
+<li id="menu-item-5337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5337"><a href="https://lier-asvo.no/personvern/">Personvern</a></li>
+<li id="menu-item-5338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5338"><a href="https://lier-asvo.no/cookies/">Cookies</a></li>
+</ul></div></div>			</div>
+		</div>
+	</div>
+</section>
+
+
+
+  <footer>
+    <div class="container">
+      <span><strong>Lier Asvo AS</strong></span>
+      <span>Kjellstadvn 11, 3402 Lier</span>
+      <span>Tlf: 32 85 96 60</span>
+      <span>E-post: <a href="mailto:asvo@lier-asvo.no">asvo@lier-asvo.no</a></span>
+	  <span><a href="https://www.facebook.com/lier.asvo/"><img src="/wp-content/uploads/sites/8/2017/10/lier-asvo_facebook.png"</a></span>
+    </div>
+
+  </footer>
+
+  </div><!-- offscreen_inner -->
+</div><!-- offscreen_wrap -->
+
+	<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Hjem","@id":"https:\/\/lier-asvo.no"}},{"@type":"ListItem","position":2,"item":{"name":"Strikkeprodukter","@id":"https:\/\/lier-asvo.no\/produktkategori\/strikkeprodukter\/"}},{"@type":"ListItem","position":3,"item":{"name":"SALG!","@id":"https:\/\/lier-asvo.no\/produktkategori\/strikkeprodukter\/salg\/"}},{"@type":"ListItem","position":4,"item":{"name":"Kortermet topp stripet","@id":"https:\/\/lier-asvo.no\/produkt\/kortermet-topp-stripet\/"}}]}</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Beklager, dette produktet er ikke tilgjengelig. Vennligst velg en annen kombinasjon.</p>
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.7.2' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"https:\/\/lier-asvo.no\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Vis handlekurv","cart_url":"https:\/\/lier-asvo.no\/handlevogn\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.7.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' id='wc-single-product-js-extra'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Vennligst velg en vurdering","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"","zoom_options":[],"photoswipe_enabled":"","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=5.7.2' id='wc-single-product-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.7.2' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"https:\/\/lier-asvo.no\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.7.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"https:\/\/lier-asvo.no\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_fafe4b6e8f1d1bae77592381b037c78f","fragment_name":"wc_fragments_fafe4b6e8f1d1bae77592381b037c78f","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.7.2' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/themes/asvo/js/imagesloaded.pkgd.min.js?ver=5.8.7' id='imagesloaded.pkgd.min-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/themes/asvo/js/owl.carousel.min.js?ver=5.8.7' id='owl-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/themes/asvo/js/theme.js?ver=5.8.7' id='theme_js-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de' id='wp-hooks-js'></script>
+<script type='text/javascript' id='vipps-gw-js-extra'>
+/* <![CDATA[ */
+var VippsConfig = {"vippsajaxurl":"https:\/\/lier-asvo.no\/wp-admin\/admin-ajax.php","BuyNowWith":"Kj\u00f8p n\u00e5 med","BuyNowWithVipps":"Kj\u00f8p n\u00e5 med Vipps","vippslogourl":"https:\/\/lier-asvo.no\/wp-content\/plugins\/woo-vipps\/img\/vipps_logo_negativ_rgb_transparent.png","vippssmileurl":"https:\/\/lier-asvo.no\/wp-content\/plugins\/woo-vipps\/img\/vipps-smile-orange.png","vippsbuynowbutton":"Kj\u00f8p n\u00e5 med Vipps-knapp","vippsbuynowdescription":"Legg til en Kj\u00f8p n\u00e5 med Vipps-knapp til produktblokken"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woo-vipps/js/vipps.js?ver=1639994567' id='vipps-gw-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/wp-embed.min.js?ver=5.8.7' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"https:\/\/lier-asvo.no\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-includes/js/wp-util.min.js?ver=5.8.7' id='wp-util-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Beklager, ingen produkter matchet valget ditt. Vennligst velg en annen kombinasjon.","i18n_make_a_selection_text":"Foreta produktvalg f\u00f8r du legger dette produktet i handlekurven din.","i18n_unavailable_text":"Beklager, dette produktet er ikke tilgjengelig. Vennligst velg en annen kombinasjon."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lier-asvo.no/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.7.2' id='wc-add-to-cart-variation-js'></script>
+
+		<!-- Cookie Notice plugin v2.2.1 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(50,50,58,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">Vi bruker cookies (informasjonskapsler) for å gi deg den beste opplevelsen av vår nettside. Hvis du fortsetter og bruke denne siden så antar vi at du er fornøyd med dette</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button" aria-label="Ok" style="background-color: #00a99d">Ok</a><a href="https://lier-asvo.no/cookies/" target="_blank" id="cn-more-info" class="cn-more-info cn-button" aria-label="Les mer" style="background-color: #00a99d">Les mer</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->
+  </body>
+</html>
