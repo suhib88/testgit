@@ -32,3 +32,4 @@ if ( strpos( '      <div class="asvo_buy">
          }
 
 }
+ 
